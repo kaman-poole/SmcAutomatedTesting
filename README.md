@@ -1,1 +1,1 @@
-# SmcAutmatedTesting
+# SmcAutomatedTesting
