@@ -1,7 +1,6 @@
-﻿namespace SmcAutomatedTesting
-{
-    public class Class1
-    {
+﻿namespace SmcAutomatedTesting;
 
-    }
+public class Class1
+{
+
 }
